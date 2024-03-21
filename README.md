@@ -2,8 +2,8 @@
 
 1. Stream start notification.
 2. New video upload notification:
-   - [DylanBurnsLIVE]<https://www.youtube.com/@DylanBurnsLIVE>;
-   - [DylanBurnsTV]<https://www.youtube.com/@DylanBurnsTV>;
+   - [DylanBurnsLIVE](https://www.youtube.com/@DylanBurnsLIVE);
+   - [DylanBurnsTV](https://www.youtube.com/@DylanBurnsTV);
 3. User action log.
 4. Mod action log.
 5. System action log.
